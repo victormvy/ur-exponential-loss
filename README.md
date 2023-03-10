@@ -18,3 +18,17 @@ The loss function is implemented as a PyTorch loss function. It can be used to o
 To use the loss function in your code, you can import like:
 
     from exponential_loss import ExponentialCrossEntropyLoss
+
+## Citation
+
+You can cite this work as follows:
+
+    @article{vargas2023exponential,
+    title = {Exponential loss regularisation for encouraging ordinal constraint to shotgun stocks quality assessment},
+    journal = {Applied Soft Computing},
+    pages = {110191},
+    year = {2023},
+    issn = {1568-4946},
+    doi = {10.1016/j.asoc.2023.110191},
+    author = {Víctor Manuel Vargas and Pedro Antonio Gutiérrez and Riccardo Rosati and Luca Romeo and Emanuele Frontoni and César Hervás-Martínez},
+    }
